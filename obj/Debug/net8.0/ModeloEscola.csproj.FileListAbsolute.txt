@@ -1,0 +1,14 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\bin\Debug\net8.0\ModeloEscola.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\bin\Debug\net8.0\ModeloEscola.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\bin\Debug\net8.0\ModeloEscola.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\bin\Debug\net8.0\ModeloEscola.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\bin\Debug\net8.0\ModeloEscola.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\refint\ModeloEscola.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ModeloEscola.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\ModeloEscola\obj\Debug\net8.0\ref\ModeloEscola.dll
