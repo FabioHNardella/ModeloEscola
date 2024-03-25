@@ -6,8 +6,10 @@ prof2.nome = "Willian";
 // Alunos
 Aluno aluno1 = new Aluno();
 aluno1.nome = "Sofia";
+aluno1.idade = 20;
 Aluno aluno2 = new Aluno();
 aluno2.nome = "Poloni";
+aluno2.idade = 25;
 // Disciplinas
 Disciplina hist = new Disciplina();
 hist.nome = "História";
