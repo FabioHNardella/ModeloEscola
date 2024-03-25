@@ -1,8 +1,8 @@
 # Modelo de Escola
-Este programa possui três classes, sendo elas **Aluno**, **Professor** e **Disciplina**, cada um possui sua função sendo elas:
-
-
 ```O ARQUIVO PROGRAM.CS É PARA OS TESTES REALIZADOS DENTRO DO PROJETO. TODOS OS NOMES E IDADES SÃO MERAMENTE ILUSTRATIVOS E APENAS SERVIRAM PARA TESTES```
+
+
+Este programa possui três classes, sendo elas **Aluno**, **Professor** e **Disciplina**, cada um possui sua função sendo elas:
 
 <h2>Professor:<h2>
 - AddDisciplina(disciplina) -> Adiciona a disciplina no qual o professor leciona;
